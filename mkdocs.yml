@@ -1,0 +1,91 @@
+# Project Information
+site_name: VATPAC Pilot Procedures
+site_url: https://pilotprocedures.vatpac.org
+repo_url: https://github.com/vatpac-technology/pilot-resources
+repo_name: vatpac-technology/pilot-resources
+edit_uri: "" #removes edit button and icon
+copyright: ""
+
+# Configuration
+theme:
+  name: material
+  custom_dir: overrides
+  logo: assets/images/mini-logo.png
+  font:
+    text: Maven Pro
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+  favicon: assets/images/mini-logo.png
+  icon:
+    repo: fontawesome/brands/github
+
+# Plugins
+plugins:
+  - search:
+      lang: en
+  - awesome-pages
+  - git-revision-date-localized:
+      type: date
+
+# Styling Front-end
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/admonitions.css
+  - stylesheets/navigation.css
+
+# Extra Functions / Customizations
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/vatpac-technology
+      name: VATPAC on Github
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/vatpac
+      name: VATPAC on Facebook
+    - icon: fontawesome/brands/discord
+      link: https://discord.vatpac.org
+      name: VATPAC on Discord
+
+# Additional Markdown Extensions to use bundled icon sets
+markdown_extensions:
+  - meta # Add front matter to a document
+  - admonition # Makes things pretty
+  - pymdownx.superfences # Nestled code
+  - attr_list # Add HTML attributes and CSS classes to Markdown elements
+  - pymdownx.tabbed: # Content tabs
+      alternate_style: true
+  - pymdownx.details # Additional features to admonition
+  - pymdownx.caret # Formatting Extension
+  - pymdownx.critic # Alternate Formatting Extension
+  - pymdownx.mark # Formatting Extension
+  - pymdownx.tilde # Formatting Extension
+  - pymdownx.keys # Visual keyboard keys extension
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji: # Allows emoji style inline embeds for icons
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - md_in_html #enables the use of image figures
+  - abbr
+  - pymdownx.snippets
+  - pymdownx.arithmatex: # Allows the use of math formulas with proper formatting
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

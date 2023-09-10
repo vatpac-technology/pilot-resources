@@ -1,0 +1,67 @@
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+<link rel="stylesheet" href="assets/stylesheets/home.css">
+<!-- Hero -->
+<section class="container">
+    <div class="md-grid md-typeset">
+        <div class="hero">
+            <div class="hero-content">
+                <h1> Welcome! </h1>
+                    <p>Welcome to the VATPAC Pilot Procedures hub. You will find resources to assist pilots flying within the virtual Australian FIR, with everything from radio phraseology to flight planning rules.</p>
+                <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | striptags }}" class="md-button md-button--primary">
+                    Let's go!
+                </a>
+                <a href="https://vatpac.org/" title="VATPAC Website" class="md-button">
+                    Back to VATPAC website.
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Page links -->
+
+<div class="lowerSection">
+    <div class="md-grid md-typeset">
+        <div class="feature">
+					<h2>Featured Changes</h2>
+
+					<div class="cards">
+							<div class="card">
+									<a href="">
+										<h3>New Enroute Detail</h3>
+	
+										<p>
+											New SOPs have been included for some (soon to be all) enroute sectors, which include specific notes pertinent to operating each position.
+										</p>
+									</a>
+							</div>
+							
+							<div class="card">
+								<a href="">
+									<h3>Search Function</h3>
+
+									<p>
+										Need to quickly find information? The search function can be used to search for words or phrases. Need to be more specific? Search with "quotes".
+									</p>
+								</a>
+						</div>
+						
+						<div class="card">
+							<a href="">
+								<h3>Controller Skills</h3>
+
+								<p>
+									Want to take a deeper dive and improve your controlling skills? Our training team and SME's have put together some advanced level resources for those interested.
+								</p>
+							</a>
+						</div>
+					</div>
+
+				</div>
+    </div>
+</div>
+
+{% endblock %}
+{% block content %}{% endblock %}
