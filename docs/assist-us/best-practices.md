@@ -28,23 +28,23 @@ All links that navigate a user away from the SOPs site should have `{target=new}
 !!! warning
     All external links should use the `https` protocol.
 
-## Sector Names
-Where available, controller positions should be referred to by their abbreviation (e.g. SAN for Sydney Approach North).  Where multiple positions are discussed in close proximity, consider **bolding** the sector names.  The `abbreviations.md` file contains a list of all sector abbreivations and creates a tooltip with their full name for clarification.
+## ATC Unit Names
+Where available, controller positions should be referred to by their callsign (e.g. Sydney Director).  Where multiple positions are discussed in close proximity, consider **bolding** the sector names.
 
 ## Altitudes
 Describe any altitudes in the format of `Axxx` (for altitudes below 10,000ft) or `Fxxx` (for flight levels above 10,000ft) and wrap them in backticks.
 
 !!! example
     ``` md
-    Departures should climb to `A010`
+    The procedure should be flown at `A010`
     ```  
-    Departures should climb to `A010`
+    The procedure should be flown at `A010`
 
 ## Radio Calls & Coordination
-It is recommended to include an example highlighting any unique or lesser-known radio calls which apply to a procedure, and to indicate any coordination requirements associated with a position.  
+It is recommended to include an example highlighting any unique or lesser-known radio calls which apply to a procedure. Where applicable, a reference should be included to the AIP or other source which refers to that radio call/procedure.
 
-### Radio Calls
-Radio calls should take the following format:  
+### Example Radio Call Formatting
+Example radio calls should take the following format:  
 
 ``` md
 **STATION NAME**: "Message"
@@ -54,29 +54,18 @@ Radio calls should take the following format:
     **VOZ1545**: "VOZ1545, request descent"  
     **HUO**: "VOZ1545, descend to FL130" 
 
-### Coordination
-Coordination examples should take the following format:  
+### Phraseology Formatting
+To maintain consistency with the format used in AIP GEN, wrap pieces of information which should be replaced by actual data by the pilot in brackets and italicize them. Any optional items should be wrapped in square brakets.
 
 ``` md
-**INITIATING SECTOR** -> **RECEIVING SECTOR**: "Message"
+   Cleared to *(destination)* via *(first waypoint)*, flight plan route, enter controlled airspace at *(altitude)* 
 ```
-
-The sector names (including the arrow) should be wrapped in a `<span>` and given a class of either `hotline` or `coldline` to denote which coordination method should be used.  
 
 ``` md
-<span class="coldline">**INITIATING SECTOR** -> **RECEIVING SECTOR**</span>: "Message"
+    *(ATC unit)*, *(aircraft callsign)*, descending to *(cleared level)*, received *(ATIS identifier)*, *[(inflight conditions)]*
 ```
-
-As a general rule of thumb, hotlines should be used in all circumstances, except for:  
-- Taxi coordination from Class D Tower to TCU/ENR position  
-- Inbound coordination from TCU/ENR to Class D Tower  
-- Oceanic coordination  
-- Airways clearance requests from ACD to overlying TCU/ENR position (e.g. Sydney Delivery requesting clearance to YSBK on behalf of an aircraft)
 
 !!! example
-    <span class="coldline">**NW TCU** -> **WOL**</span>: "Taxi, PSDN18 for YMCO via URBOB, Requesting F130"  
-    <span class="coldline">**WOL** -> **NW TCU**</span>: "PSDN18, F130"  
-    <span class="coldline">**NW TCU** -> **WOL**</span>: "F130, PSDN18" 
+    Contact Adelaide Approach and request clearance for the procedure.
 
-    <span class="hotline">**WOL** -> **NW TCU**</span>: "via CB, SKJ, with your concurrence, will be assigned descent to A090"  
-    <span class="hotline">**NW TCU** -> **WOL**</span>: "SKJ, concur A090" 
+    "Adelaide Approach, *(your callsign)*, *(your position)*, *(your altitude)*, received *(ATIS identifier)*, request coastal northbound"
