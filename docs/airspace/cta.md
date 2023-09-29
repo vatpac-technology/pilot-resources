@@ -4,3 +4,26 @@
 
 --8<-- "includes/abbreviations.md"
 
+## Airways Clearances
+- Requirement to obtain a clearance prior to entering CTA
+- Airways clearance to enter CTA when already airborne
+- Airways clearance when departing from CTA aerodrome
+
+## Controlled Aerodromes
+- Class C
+- Class D
+- Class D Metro
+
+## Pilot Tracking/Level Requests
+- Amended levels
+- Weather (and other) deviations
+- Tracking for different waypoints
+- Requests for airwork or to operate in a certain area
+
+## Separation Standards
+- Different classes of airspace and what separation services are provided by ATC (e.g. class C - IFR sep from all, VFR sep from IFR, VFR traffic info on VFR)
+- Visual separation (by pilot)
+
+## Class E Airspace
+- Requirement for IFR to obtain clearance
+- Requirement for VFR to maintain listening watch
