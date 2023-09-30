@@ -43,6 +43,11 @@
 - Azimuth deflection of ADF needle
 - May involve reversal procedure
 
+### DME/GNSS Arrivals (DGAs)
+- Allows descent on a prescribed track or within a sector to the circling area
+- Manouevring must be completed before FAF, after which you must track DCT the aid
+- Adds flexibility for pilot to descend to the circling area without having to manoeuvre to join an instrument approach (saves time)
+
 ## Circling Approaches
 - Requirements when circling
 - Definition of circling area
