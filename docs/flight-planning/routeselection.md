@@ -5,6 +5,7 @@
 --8<-- "includes/abbreviations.md"
 
 ## ERSA Preferred Routes
+- Preferred routes from A to B in the list first, then:  
 - Use as starting point to exit/enter busy TMAs, then use other route planning to connect the two
 - If required route is less than ideal, consider departing VFR/OCTA
 
