@@ -20,6 +20,13 @@
 - Tracking for different waypoints
 - Requests for airwork or to operate in a certain area
 
+## ATC Instructions & Sequencing
+- Timeframe to comply with change of level and heading instructions
+- Waypoint crossing time tolerance
+    - Instruction on how to comply with waypoint crossing time
+- Hold exit time tolerance
+    - Instruction on how to comply with hold exit time
+
 ## Separation Standards
 - Different classes of airspace and what separation services are provided by ATC (e.g. class C - IFR sep from all, VFR sep from IFR, VFR traffic info on VFR)
 - Visual separation (by pilot)
