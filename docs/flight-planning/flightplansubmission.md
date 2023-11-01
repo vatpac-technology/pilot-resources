@@ -8,6 +8,7 @@
 
 ## Unusual Callsigns
 - Include in remarks as 'RTF/QANTAS'
+- List of approved callsigns (mirror what we have in the SOPs under Controller Skills)
 
 ## Airwork and Planned Delays
 - 'DLE/YMAV0020'
