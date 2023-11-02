@@ -11,7 +11,7 @@ Use this page to track each page/section as you work on it. This will avoid mult
 | Airspace | | To Do | |
 | Radio Telephony | | To Do | |
 | Navigation | | To Do | |
-| Flight Planning | | To Do | |
+| Flight Planning | | In Progress | Matt K |
 | Meteorology | | To Do | |
 | Local Procedures | | To Do | |
 
