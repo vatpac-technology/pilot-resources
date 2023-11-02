@@ -9,6 +9,10 @@
 - TAF is forecast
 - Can't use METAR for flight planning
 
+## Where to Find Forecasts
+- NAIPS
+- VATPAC Pilot Tool (enter details prior to departure to access 'offline' mode)
+
 ## Interpreting Data
 ### METAR
 - What each section means
