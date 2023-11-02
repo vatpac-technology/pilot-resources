@@ -241,3 +241,6 @@
 *[DNGR]: Point Danger
 *[IAS]: Indicated Airspeed
 *[PNL]: Port Noarlunga
+*[AGL]: Above Ground Level
+*[AMSL]: Above Mean Sea Level
+*[AAL]: Above Aerodrome Level
