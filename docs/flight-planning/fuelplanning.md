@@ -85,11 +85,12 @@ Below are several sample fuel plans for various aircraft types. These are provid
     | -------- | ------ |
     | Flight Fuel | 34 L |
     | Alternate Fuel |  |
+    | Weather Holding | |
+    | Traffic Holding |  |
+    | Instrument Approach |  |
     | Final Reserve | 18 L |
     | Contingency Fuel |  |
     | Taxi Fuel | 5 L |
-    | Instrument Approach |  |
-    | Traffic Holding |  |
     | Extra Fuel | 12 L (20 min holding) |
     | **Total Fuel Required** | **69 L** |
 
@@ -108,21 +109,41 @@ Below are several sample fuel plans for various aircraft types. These are provid
     | -------- | ------ |
     | Flight Fuel | 475 kg |
     | Alternate Fuel | 257 kg |
+    | Weather Holding | |
+    | Traffic Holding | 150 kg (20 min) |
+    | Instrument Approach | 200 kg |
     | Final Reserve | 225 kg |
     | Contingency Fuel | 37 kg |
     | Taxi Fuel | 25 kg |
-    | Instrument Approach | 200 kg |
-    | Traffic Holding | 150 kg (20 min) |
     | Extra Fuel |  |
     | **Total Fuel Required** | **1,369 kg** |
 
 ## Inflight Diversion
-- Where extensive holding or other factors dictate, perform fuel calculation to determine latest divert time
-- Calculate flight fuel from present position to alternate
-- Cater for any holding required at alternate (weather, traffic, etc)
-- Cater for instrument approach at alternate if required
-- Apply conservative buffer to minimum divert fuel, then assess current fuel burn to determine latest divert time
-- Advise ATC approaching and reaching divert point
+Some situations, such as heavy traffic, thunderstorms, or mechanical failure, may result in extended holding at your destination. In these cases, an inflight fuel plan should be done to determine the minimum amount of fuel required to divert to a suitable alternate (either nominated during preflight planning or determined then and there). Once a suitable alternate has been found, determine the flight fuel required to get there, any weather, traffic, or other holding requirements it may have, whether an approach will be required, and any other fuel you may need.
+
+Add your required reserves to determine your calculated minimum fuel, then apply a conservative buffer. By assessing your current fuel state and actual burn rate, you can determine how much time you have remaining in the hold before you must divert. It is important to keep ATC in the loop when approaching your divert time and ensure you start tracking for your alternate without delay. If your fuel state deteriorates further, you may need to advise ATC as per [Inflight Fuel Emergencies](#inflight-fuel-emergencies) below.
+
+!!! example
+    **Aircraft**: SAAB 340  
+    **Flight Rules**: IFR  
+    **Alternate Weather**: Good, with an INTER below the alternate minima
+
+    | Category | Amount |
+    | -------- | ------ |
+    | Flight Fuel to Alternate | 219 kg |
+    | Final Reserve | 225 kg |
+    | Contingency Fuel | 22 kg |
+    | Weather Holding | 225 kg (30 min) |
+    | Traffic Holding |  |
+    | Instrument Approach | |
+    | Extra Fuel |  |
+    | **Total Fuel Required** | **691 kg** |
+    | **Minimum Fuel with Buffer** | **750 kg** |
+
+    **Fuel Onboard**: 1,050 kg  
+    **Current Fuel Burn**: 350 kg/hr  
+
+    **The aircraft can remain in the hold for another 51 minutes before a diversion becomes necessary.**
 
 ### Inflight Fuel Emergencies
 - MINIMUM FUEL and MAYDAY FUEL calls (link to radio page)
