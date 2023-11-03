@@ -57,7 +57,7 @@ If your destination does not have an instrument approach, you must plan an alter
 
 ## Alterante due Navaids
 ### IFR
-An alternate must be held for IFR flights if due to the aircraft's equipment or the destination aerodrome's navigation aids, a single point of failure in the aircraft or on the ground would cause a loss of approach capability. In principle, this means that if your destination has only a single approach type available or your aircraft has only a single piece of equipment which can receive that data, you must carry an alternate.
+An alternate must be held for IFR flights if due to the aircraft's equipment or the destination aerodrome's navigation aids, a single point of failure in the aircraft or on the ground would cause a loss of approach capability. In practice, this means that if your destination has only a single approach type available or your aircraft has only a single piece of equipment which can receive that data, you must carry an alternate.
 
 !!! example
     Flying a B737 (with multiple GPS, VHF NAV, and ADF equipment onboard) to Orange (YORG), which has published RNP approaches but no ground based aids, would require an alternate, as a loss of RAIM or GNSS integrity would result in the aircraft being unable to conduct an approach.  
