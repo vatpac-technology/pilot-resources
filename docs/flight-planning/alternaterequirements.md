@@ -62,9 +62,9 @@ If your destination does not have an instrument approach, you must plan an alter
 An alternate must be held for IFR flights if due to the aircraft's equipment or the destination aerodrome's navigation aids, a single point of failure in the aircraft or on the ground would cause a loss of approach capability. In practice, this means that if your destination has only a single approach type available or your aircraft has only a single piece of equipment which can receive that data, you must carry an alternate.
 
 !!! example
-    Flying a B737 (with multiple GNSS, VHF NAV, and ADF equipment onboard) to Orange (YORG), which has published RNP approaches but no ground based aids, would require an alternate, as a loss of RAIM or GNSS integrity would result in the aircraft being unable to conduct an approach.  
+    Flying a King Air (with a single GNSS, and multiple VHF NAV & ADF equipment onboard) to Orange (YORG), which has published RNP approaches but no ground based aids, would require an alternate, as a loss of RAIM or GNSS integrity would result in the aircraft being unable to conduct an approach.  
 
-    Flying a C172 (with a single GNSS, VHF NAV, and no ADF) to Sydney (YSSY) would *not* require an alternate, as a failure of a single piece of equipment in the aircraft (e.g. the GPS) or on the ground (e.g. the ILS) would not prevent the aircraft from conducting an approach (they could still utilise the RNP or ILS approach, depending on the source of failure).
+    Flying a C172 (with a single GNSS and a single VHF NAV) to Sydney (YSSY) would *not* require an alternate, as a failure of a single piece of equipment in the aircraft (e.g. the GPS) or on the ground (e.g. the ILS) would not prevent the aircraft from conducting an approach (they could still utilise the RNP or ILS approach, depending on the source of failure).
 
 ### Night VFR
 An alternate, within 1 hour flying time, is required for Night VFR flights unless:

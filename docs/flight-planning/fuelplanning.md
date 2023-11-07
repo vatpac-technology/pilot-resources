@@ -17,7 +17,7 @@ In the real world, reserve fuel rules are divided into aircraft category and wei
 
 | Aircraft Type | Flight Rules | Final Reserve | Contingency Fuel |
 | ------------- | ------------ | ------------- | ---------------- |
-| Piston engine or small turboprop | VFR | 30 min |  |
+| Piston engine or small turboprop | Day VFR | 30 min |  |
 | Piston engine or small turboprop | Night VFR or IFR | 45 min |  |
 | Jet engine or commuter turboprop | VFR or IFR | 30 min | 5% of flight & alternate fuel |
 | Helicopter | VFR | 20 min |  |
@@ -37,7 +37,7 @@ Approach fuel is only required when the weather indicates an instrument approach
 
 | Cloud | Visibility |
 | ----- | ---------- |
-| Any cloud below LSALT +500ft | 8km |
+| Any cloud below LSALT +500ft | Less than 8km |
 
 ### Weather Holding/Alternate Fuel
 Where the weather (or other factors) are expected to be unsuitable, sufficient fuel must be carried to either hold until conditions improve or divert to a suitable alternate aerodrome. See [Alternate Requirements](./alternaterequirements.md) for more information.
@@ -111,7 +111,7 @@ Below are several sample fuel plans for various aircraft types. These are provid
     | Alternate Fuel | 257 kg |
     | Weather Holding | |
     | Traffic Holding | 150 kg (20 min) |
-    | Instrument Approach | 200 kg |
+    | Instrument Approach | 200 kg (2 approaches) |
     | Final Reserve | 225 kg |
     | Contingency Fuel | 37 kg |
     | Taxi Fuel | 25 kg |
