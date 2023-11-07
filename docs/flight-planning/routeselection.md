@@ -4,6 +4,8 @@
 
 --8<-- "includes/abbreviations.md"
 
+If you intend on remaining outside controlled airspace and away from busy areas & major obstacles, you can generally select the route of your choice. However, if you are planning to enter CTA or visit a major aerodrome, careful route selection will make it considerably easier for ATC to clear you as requested.
+
 ## ERSA Preferred Routes
 - Preferred routes from A to B in the list first, then:  
 - Use as starting point to exit/enter busy TMAs, then use other route planning to connect the two
@@ -29,3 +31,4 @@
 ## Use of Third-Party Tools
 - Warning about use of SimBrief routes
 - Use of ATC Assist to generate route
+- Local Procedures section for notes on VFR coded clearances, etc
