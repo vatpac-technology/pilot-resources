@@ -244,3 +244,11 @@
 *[AGL]: Above Ground Level
 *[AMSL]: Above Mean Sea Level
 *[AAL]: Above Aerodrome Level
+*[VTC]: Visual Terminal Chart
+*[VNC]: Visual Navigation Chart
+*[WAC]: World Aeronautical Chart
+*[TAC]: Terminal Area Chart
+*[ERC]: En-Route Chart
+*[PRD]: Prohibited, Restricted & Danger Areas
+*[PRDs]: Prohibited, Restricted & Danger Areas
+*[KIAS]: Knots Indicated Airspeed
