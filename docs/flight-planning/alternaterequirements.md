@@ -45,13 +45,16 @@ For helicopters operated under Day VFR to an uncontrolled (Class G) aerodrome, t
 The IFR alternate minima is described on any approach chart for that aerodrome. The figures are formatted as cloud height above ground level and visibility in kilometres.
 
 !!! example
-    The alternate minima for a Category C aircraft landing at Adelaide (YPAD) would be more than scattered cloud below **1,480ft AGL** and/or visibility below **6.0km**.
+    An alternate would be required for a Category C aircraft landing at Adelaide (YPAD) with more than scattered cloud below **1,480ft AGL** and/or visibility below **6.0km**.
     <figure markdown>
     ![Adelaide Alternate Minima (example only, not for operational use)](img/ypadminima.png){ width="700" }
       <figcaption>Adelaide Alternate Minima (example only, not for operational use)</figcaption>
     </figure>
 
-If your destination does not have an instrument approach, you must plan an alternate if the area forecast indicates weather conditions below:
+!!! note
+    See [Aircraft Categories](#aircraft-categories) below to determine your aircraft's category. 
+
+If your destination does not have an instrument approach, you must plan an alternate if the forecast indicates weather conditions below:
 
 | Cloud | Visibility |
 | ----- | ---------- |
@@ -71,3 +74,15 @@ An alternate, within 1 hour flying time, is required for Night VFR flights unles
 
 - The aircraft is equipped with GNSS, or
 - The destination is served by a ground-based navaid which the aircraft has equipment to receive
+
+## Aircraft Categories
+Aircraft are grouped into categories for the purpose of flight planning and terminal procedure design. Some aircraft can be operated in multiple categories based on operator preference, but for simplicity, it is sufficient to choose the category which best reflects the average day-to-day operation using the table below.
+
+| Category | Final Approach Speed | Example |
+| -------- | -------------------- | ------- |
+| A | up to 90 KIAS | Cessna 172 |
+| B | 91 to 120 KIAS | Beechcraft King Air |
+| C | 121 to 140 KIAS | SAAB 340 |
+| D | 141 to 165 KIAS | Airbus A380 |
+| E | 161 to 210 KIAS | Something huge! |
+| H | N/A | Helicopters |
