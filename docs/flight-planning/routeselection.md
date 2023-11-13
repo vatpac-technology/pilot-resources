@@ -39,4 +39,5 @@ The ERSA Flight Planning Requirements (FPR) document lists required tracking poi
 ## Use of Third-Party Tools
 - Warning about use of SimBrief routes
 - Use of ATC Assist to generate route
+- Use of SkyVector to visualise routes
 - Local Procedures section for notes on VFR coded clearances, etc
