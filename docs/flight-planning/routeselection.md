@@ -27,17 +27,69 @@ The ERSA Flight Planning Requirements (FPR) document lists required tracking poi
     If the required route listed in the FPR is undesirable (e.g. it adds significant track miles) and the weather is suitable, consider departing VFR or remaining OCTA until you are outside the terminal area.
 
 ## Altitude Selection
-- Hemispherical levels
-- VFR +500ft levels
-- Safe altitude above terrain
+Appropriate level selection depends on your flight rules, route, and intention to enter or remain clear of CTA.
+
+For IFR, determine the highest LSALT out of the airways you've selected or the Grid LSALT if not flying via airways for your entire route. For VFR, identify the highest obstacles/terrain and select a level which provides a safe buffer (generally 500ft, or 1000ft if above a populated area) above. 
 
 <figure markdown>
-  ![Grid LSALTs (circled) over Flinders Island for each green grid square](img/gridlsalts.png){ width="700" }
-    <figcaption>Grid LSALTs (circled) over Flinders Island for each green grid square</figcaption>
-  </figure>
+![Grid LSALTs (circled) over Flinders Island for each green grid square](img/gridlsalts.png){ width="700" }
+  <figcaption>Grid LSALTs (circled) over Flinders Island for each green grid square</figcaption>
+</figure>
+
+Next, adjust your chosen level to comply with the hemispherical level rule. IFR flights should plan an odd level (e.g. 7,000ft) when flying east and an even level (e.g. 8,000ft) when flying west, up to 41,000ft. VFR flights should comply with this rule, but add 500ft to the determined level. A full list of available altitudes is replicated below:
+
+| IFR - Track 000 to 179 | IFR - Track 180 to 359 |
+| ----- | ----- |
+| 3,000ft | 2,000ft |
+| 5,000ft | 4,000ft |
+| 7,000ft | 6,000ft |
+| 9,000ft | 8,000ft |
+| FL110 | 10,000ft |
+| FL130 | FL120 |
+| FL150 | FL140 |
+| FL170 | FL160 |
+| FL190 | FL180 |
+| FL210 | FL200 |
+| FL230 | FL220 |
+| FL250 | FL240 |
+| FL270 | FL260 |
+| FL290 | FL280 |
+| FL310 | FL300 |
+| FL330 | FL320 |
+| FL350 | FL340 |
+| FL370 | FL360 |
+| FL390 | FL380 |
+| FL410 | FL400 |
+| FL450 | FL430 |
+| FL490 | FL470 |
+|  | FL510 |
+
+| VFR - Track 000 to 179 | VFR - Track 180 to 359 |
+| ----- | ----- |
+| 3,500ft | 2,500ft |
+| 5,500ft | 4,500ft |
+| 7,500ft | 6,500ft |
+| 9,500ft | 8,500ft |
+| FL115 | 10,500ft |
+| FL135 | FL125 |
+| FL155 | FL145 |
+| FL175 | FL165 |
+| FL195 | FL185 |
+| FL215 | FL205 |
+| FL235 | FL225 |
+|  | FL245 |
+
+!!! note
+    When planning to operate VFR outside CTA at 3,000ft AMSL or below, you may select any desired altitude.
+
+!!! tip
+    These rules apply to pilots at the flight planning stage. Once airborne, you may request climb to non-standard levels, subject to surrounding traffic and ATC requirements.
 
 ## Use of Third-Party Tools
-- Warning about use of SimBrief routes
+Flight planning can be greatly simplified through the use of the many available third-party tools, although caution should be taken when utilising them.
+
+(SimBrief)[https://simbrief.com] is a popular site designed to automate route selection and fuel planning. Pay extra attention when selecting a route from the suggested list, as they may have been submitted by users with little flight planning experience. It is good practice to confidence check the suggested route against another source, and where available, select the purple 'Preferred Route' (which have been uploaded by VATPAC staff).
+
 - Use of ATC Assist to generate route
 - Use of SkyVector to visualise routes
 - Local Procedures section for notes on VFR coded clearances, etc
