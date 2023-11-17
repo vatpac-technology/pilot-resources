@@ -29,7 +29,7 @@ The ERSA Flight Planning Requirements (FPR) document lists required tracking poi
 ## Altitude Selection
 Appropriate level selection depends on your flight rules, route, and intention to enter or remain clear of CTA.
 
-For IFR, determine the highest LSALT out of the airways you've selected or the Grid LSALT if not flying via airways for your entire route. For VFR, identify the highest obstacles/terrain and select a level which provides a safe buffer (generally 500ft, or 1000ft if above a populated area) above. 
+For IFR, determine the highest LSALT out of the airways you've selected or the Grid LSALT, if not flying via airways for your entire route. For VFR, identify the highest obstacles/terrain and select a level which provides a safe buffer (generally 500ft, or 1000ft if above a populated area) above. 
 
 <figure markdown>
 ![Grid LSALTs (circled) over Flinders Island for each green grid square](img/gridlsalts.png){ width="700" }
@@ -88,10 +88,10 @@ Next, adjust your chosen level to comply with the hemispherical level rule. IFR 
 ## Use of Third-Party Tools
 Flight planning can be greatly simplified through the use of the many available third-party tools, although caution should be taken when utilising them.
 
-[SimBrief](https://simbrief.com) is a popular site designed to automate route selection and fuel planning. Pay extra attention when selecting a route from the suggested list, as they may have been submitted by users with little flight planning experience. It is good practice to confidence check the suggested route against another source, and where available, select the purple 'Preferred Route' (which have been uploaded by VATPAC staff). It is also recommended that you add extra fuel (using the built-in input boxes) where required, as per [Fuel Planning](./fuelplanning.md).
+[SimBrief](https://simbrief.com){target=new} is a popular site designed to automate route selection and fuel planning. Pay extra attention when selecting a route from the suggested list, as they may have been submitted by users with little flight planning experience. It is good practice to confidence check the suggested route against another source, and where available, select the purple 'Preferred Route' (which have been uploaded by VATPAC staff). It is also recommended that you add extra fuel (using the built-in input boxes) where required, as per [Fuel Planning](./fuelplanning.md).
 
-VATPAC's [Pilot Assist](https://vatpac.org/membership-hub/tools/pilot) tool can be helpful for generating weather forecasts and accessing charts for your planned flight. To generate a route which complies with the ERSA FPR, check out VATPAC's [ATC Assist](https://atc.vatpac.org/).
+VATPAC's [Pilot Assist](https://vatpac.org/membership-hub/tools/pilot){target=new} tool can be helpful for generating weather forecasts and accessing charts for your planned flight. The system can also be used to generate a route which complies with the ERSA FPR.
 
 Some aerodromes and terminal areas feature specific procedures for pilots to comply with. These procedures have been summarised in [Local Procedures](../local-procedures/), where you'll find flight planning advice as well as in-flight procedural guidelines.
 
-Applications like Navigraph allow pilots to plot out their intended flight plan on appropriate maps and charts. For those without a subscription, the free [SkyVector](https://skyvector.com) provides similar functionality. Be aware that the system is primarily designed for use in the USA and whilst Australian coverage is generally good, the VFR mapping system is lacking compared to other options.
+Applications like Navigraph allow pilots to plot out their intended flight plan on appropriate maps and charts. For those without a subscription, the free [SkyVector](https://skyvector.com){target=new} provides similar functionality. Be aware that the system is primarily designed for use in the USA and whilst Australian coverage is generally good, the VFR mapping system is lacking compared to other options.
