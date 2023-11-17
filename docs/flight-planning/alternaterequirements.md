@@ -25,6 +25,9 @@ You must plan an alternate (or carry sufficient holding fuel, see [Fuel Planning
     - FEW plus FEW equals SCT
     - FEW plus SCT equals BKN
 
+!!! tip
+    You can access TAFs and METARs for your departure & destination airports (as well as all available charts) using VATPAC's Pilot Assist tool.
+
 ### VFR Alternate Minima
 The VFR alternate minima, by both day and night, is as follows:
 
