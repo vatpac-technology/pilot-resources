@@ -80,7 +80,7 @@ Next, adjust your chosen level to comply with the hemispherical level rule. IFR 
 |  | FL245 |
 
 !!! note
-    When planning to operate VFR outside CTA at 3,000ft AMSL or below, you may select any desired altitude.
+    When planning to operate VFR outside CTA at 3,000ft AMSL or below, you may select any desired altitude without regard for the table above.
 
 !!! tip
     These rules apply to pilots at the flight planning stage. Once airborne, you may request climb to non-standard levels, subject to surrounding traffic and ATC requirements.
@@ -88,8 +88,10 @@ Next, adjust your chosen level to comply with the hemispherical level rule. IFR 
 ## Use of Third-Party Tools
 Flight planning can be greatly simplified through the use of the many available third-party tools, although caution should be taken when utilising them.
 
-(SimBrief)[https://simbrief.com] is a popular site designed to automate route selection and fuel planning. Pay extra attention when selecting a route from the suggested list, as they may have been submitted by users with little flight planning experience. It is good practice to confidence check the suggested route against another source, and where available, select the purple 'Preferred Route' (which have been uploaded by VATPAC staff).
+[SimBrief](https://simbrief.com) is a popular site designed to automate route selection and fuel planning. Pay extra attention when selecting a route from the suggested list, as they may have been submitted by users with little flight planning experience. It is good practice to confidence check the suggested route against another source, and where available, select the purple 'Preferred Route' (which have been uploaded by VATPAC staff). It is also recommended that you add extra fuel (using the built-in input boxes) where required, as per [Fuel Planning](./fuelplanning.md).
 
-- Use of ATC Assist to generate route
-- Use of SkyVector to visualise routes
-- Local Procedures section for notes on VFR coded clearances, etc
+VATPAC's [Pilot Assist](https://vatpac.org/membership-hub/tools/pilot) tool can be helpful for generating weather forecasts and accessing charts for your planned flight. To generate a route which complies with the ERSA FPR, check out VATPAC's [ATC Assist](https://atc.vatpac.org/).
+
+Some aerodromes and terminal areas feature specific procedures for pilots to comply with. These procedures have been summarised in [Local Procedures](../local-procedures/), where you'll find flight planning advice as well as in-flight procedural guidelines.
+
+Applications like Navigraph allow pilots to plot out their intended flight plan on appropriate maps and charts. For those without a subscription, the free [SkyVector](https://skyvector.com) provides similar functionality. Be aware that the system is primarily designed for use in the USA and whilst Australian coverage is generally good, the VFR mapping system is lacking compared to other options.
