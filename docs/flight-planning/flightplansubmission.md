@@ -16,3 +16,6 @@
 - 'DLE/YMAV0020'
 - 'RMK/AV ILS'
 - 'RMK/HARBOUR SCENIC ONE'
+
+## Priority Status
+- MEDEVAC, FFR, etc
