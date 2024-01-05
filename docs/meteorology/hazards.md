@@ -6,7 +6,7 @@
 
 ## Thunderstorms
 - Dangers to aviation
-- Avoidance
+- Avoidance (FCOM distances, requesting deviations from ATC)
 
 ## Mountain Waves
 - Dangers to aviation
