@@ -92,6 +92,6 @@ Flight planning can be greatly simplified through the use of the many available 
 
 VATPAC's [Pilot Assist](https://vatpac.org/membership-hub/tools/pilot){target=new} tool can be helpful for generating weather forecasts and accessing charts for your planned flight. The system can also be used to generate a route which complies with the ERSA FPR.
 
-Some aerodromes and terminal areas feature specific procedures for pilots to comply with. These procedures have been summarised in [Local Procedures](../local-procedures/), where you'll find flight planning advice as well as in-flight procedural guidelines.
+Some aerodromes and terminal areas feature specific procedures for pilots to comply with. These procedures have been summarised in [Local Procedures](../../local-procedures/), where you'll find flight planning advice as well as in-flight procedural guidelines.
 
 Applications like Navigraph allow pilots to plot out their intended flight plan on appropriate maps and charts. For those without a subscription, the free [SkyVector](https://skyvector.com){target=new} provides similar functionality. Be aware that the system is primarily designed for use in the USA and whilst Australian coverage is generally good, the VFR mapping system is lacking compared to other options.

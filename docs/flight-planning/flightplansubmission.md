@@ -8,8 +8,10 @@
 
 ## Equipment Codes
 
-## Unusual Callsigns
-- Include in remarks as 'RTF/QANTAS'
+## Callsigns
+- Note to use ICAO not IATA codes
+- Use of VH- for international flights only, otherwise just 3 character rego identifier
+- Include unusual callsigns in remarks as 'RTF/QANTAS'
 - List of approved callsigns (mirror what we have in the SOPs under Controller Skills)
 
 ## Airwork and Planned Delays
