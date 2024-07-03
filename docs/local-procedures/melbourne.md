@@ -12,7 +12,7 @@ Aerodromes
 | Avalon | Class D | YMAV |
 | Moorabbin | Class D | YMMB |
 
-- city orbits
+- city orbits OK!
 - sunbury corridor
 - bay VFR route
 - visual STARs to YMML
