@@ -26,6 +26,7 @@ On the ground, aircraft in the apron bays may start up and taxi their aircraft w
 Once runups are complete, an aircraft can call for taxi to either runway in use, as well as stating the following call, including, who you are, what aircraft you are in, where you are, where you want to taxi to and how you want to depart.
 
 YOU:`Moorabbin Ground, VCY, Cessna 152, Southern Runup bay, request taxi runway 17R, upwind departure to the training area, in receipt of Uniform.`
+
 MB_GND: `VCY, ground, taxi holding point Golf 2 runway 17R`
 
 
