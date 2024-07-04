@@ -89,7 +89,24 @@ a vigilant lookout and an effective scan.
 
 ![alt text](image.png)
 
+### Melbourne City Orbits
+VFR aircrft have the ability to orbit the Melbourne CBD. To do so however, they do need to enter controlled airspace. Although Essendon tower owns the Melbourne city airspace, due to the infrequent staffing of EN_TWR on VATSIM, the airspace is normally assumed to Melbourne Approach.
 
+To be cleared to perform a city orbit, aircraft must provide the relevant controller with the following information, including who you are, what you are, where you are, your altitude, and what you intend to do.
+
+YOU: `Melbourne Approach, VCY, Cessna 152, Overhead Point Ormond, 2,000, request one left hand city orbit.`
+
+ATC: `VCY, squawk 8624, cleared one left hand city orbit, not above 1,500, report complete.`
+
+YOU: `Cleared one left hand city orbit, not above 1,500, wilco, VCY`
+
+Once the aircraft is cleared, the aircraft may enter the controlled airspace, and perform an orbit around the outside of Melbourne City. Once the aircraft has completed the orbit, they may notify the ATC of their completion.
+
+YOU: `VCY, Orbit complete, tracking via Point Ormond for Moorabbin.`
+
+ATC: `VCY, Control services terminated, frequency change approved.`
+
+YOU: `Control services terminated, frequency change approved, VCY.`
 
 ## to do list. (remove later)
 - city orbits OK!
