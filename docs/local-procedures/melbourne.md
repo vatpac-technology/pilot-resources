@@ -13,7 +13,9 @@
 | Moorabbin | Class D | YMMB |
 
 ## Melbourne Airport
-Melbourne (Tullemarine) Airport is the second busiest aerodrome in Australia. Melbourne runs 
+### On the ground
+
+Melbourne Airport runs 2 runways, that being runway 16/34, and runway 27/09. 
 
 ## Avalon Airport
 
@@ -35,10 +37,33 @@ MB_GND: `VCY, ground, taxi holding point Golf 2 runway 17R`
 
 Although at first slightly daunting, Moorabbin's taxiways can be easily learned, and as the saying goes, if you can taxi at Moorabbin, you can taxi anywhere.
 
-![alt text](picture3.png)
+![alt text](picture3-1.png)
 
 ### Outbound
-Departing Moorabbin, you will always depart initially via a leg of the circuit, wether that be upwind, crosswind or downwind. Aircraft departing Moorabin should maintain 2000 feet unless otherwise advised, until outside the 3 mile zone, where aircraft may then fly underneath the Class Charlie airspace (northbound bellow 3,500 FT, Southbound bellow 4,500 FT.)
+Departing Moorabbin, you will always depart initially via a leg of the circuit, wether that be upwind, crosswind or downwind. Aircraft departing Moorabin should maintain 2000 feet unless otherwise advised, until outside the 3 mile zone, where aircraft may then fly underneath the Class Charlie airspace (northbound bellow 3,500 FT, Southbound bellow 4,500 FT.) 
+
+Any aircraft that wishes to depart via a known waypoint, must still depart via a circuit leg towards the location, wether that be an upwind towards Carrum (CARR), or a downwind towards Brighton (BTO.) 
+
+
+
+### Inbound
+To enter the Moorabbin class Delta, Aircraft must call Moorabbin tower via one of the inbound waypoints. These include, Carrum, GMH, Academy, Brighton and Baywest.
+
+Aircraft must be at a mandatory 1,500 FT overhead these waypoints, and proceed with the inbound call, stating, like the taxi call, who they are, what they are, where they are, their altitude, their intentions, and their receipt of the current ATIS. The tower controller will then issue a circuit joining instruction, allowing you into the Class Delta. 
+
+YOU: `Moorabbin Tower, VCY, Cessna 152, Overhead Carrum, 1500, Inbound, with Victor.`
+
+MB_TWR: `VCY, Join downwind, runway 17L`
+
+YOU: `Join downwind, runway 17L, VCY`
+
+If the aerodrome or circuit is too busy, the tower controller may issue the statement to remain outside of the Class Delta airspace, which in that case, you will need to turn around and try again later, or try a different inbound point for a different runway.
+
+YOU: `Moorabbin Tower, VCY, Cessna 152, Overhead Carrum, 1500, Inbound, with Victor.`
+
+MB_TWR: `VCY, the circuit is currently full, remain outside Class Delta airspace`
+
+YOU: `Remain outside Class Delta, VCY`
 
 
 
@@ -46,7 +71,23 @@ Departing Moorabbin, you will always depart initially via a leg of the circuit, 
 
 
 
+## VFR Procedures
+### Melbourne Coastal Route
+The coastal VFR route is used to skirt the Melbourne CTR, south of the city. Aircraft using the route
+must remain outside controlled airspace. Pilots should consult the Melbourne (VTC) before flying
+the coastal route.
 
+When using the coastal route between Point Ormond and Laverton BOM tower (cloud permitting),
+fly westbound at 2,000 ft and eastbound at 1,500 ft.
+
+When using the coastal route between Point Ormond and Carrum (cloud permitting), fly
+southbound at 1,500 ft and northbound at 2,500 ft, and track clear of MB CTR.
+
+Keep to the right of the lane to avoid oncoming traffic. Pilots should have landing lights,
+anti‑collision strobes and navigation lights on to assist sighting and avoiding other traffic. Maintain
+a vigilant lookout and an effective scan. 
+
+![alt text](image.png)
 
 
 
