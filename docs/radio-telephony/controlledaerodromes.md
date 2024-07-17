@@ -5,11 +5,12 @@
 ## Airways Clearance
 ### Standard airways clearance format
 
+!!! TIP
+    If the controller is a Center or approach, it's suggested you specify what airport you are in, especially if you are not at their primary airport.
+
 **IFR**
 
-Request:`"[Station (Tower/Ground/Delivery/Approach/Center)] [Callsign] for [Destniation] Request clearance"` 
-
-<Sub>note, if the controller is a Center or approach, it's suggested you specify what airport you are in, especially if you are not at their primary airport.</Sub>
+Request:"[Station (Tower/Ground/Delivery/Approach/Center)] [Callsign] for [Destniation] Request clearance" 
 
 Clearance: `"[Callsign] cleared to [Destniation] via [First point] Flight planed route Runway [Identifier] [Standard instrument departure] departure, climb via the SID [Alt] Squawk [Code] Departures [Freq]"`
 
@@ -18,8 +19,6 @@ Readback: `"Cleared to [Destniation] Via [First point] Flight planed route, Runw
 **VFR**
 
 Request:`"[Station (Tower/Ground/Delivery/Approach/Center)] [Callsign] for [Destniation] Request clearance"`
-
-<Sub>note, if the controller is a Center or approach, it's suggested you specify what airport you are in, especially if you are not at their primary airport.</Sub>
 
 Clearance:`"[Callsign] cleared [destination] via [First point]/Direct, runway [Identifier] climb/not above [ALT] Departures [Freq]"`
 
@@ -34,9 +33,14 @@ Clearance:`"[Callsign] cleared to operate in the circuit area runway [Identifier
 
 ### PDC
 
-You may recive a PDC at any time with out requesting it, OR you may request a PDC on freq with the following phraseology
+You may recive a PDC at any time with out requesting it (via direct message), OR you may request a PDC on freq with the following phraseology.
 
 `" [Callsign] for [Destniation] Request PDC"`
+
+!!! NOTE
+    - If you wish to recive a PDC via CPDLC/ACARS check the controller info for a CPDLC/PDC logon code and send a PDC request that way.
+    - CPDLC/PDC logons are 4 letter codes and will look like `CPDLC/PDC YYYY`
+    - Controller info can be found by double clicking the frequency in the frequency list in V/X pilot
 
 After you recived a PDC you are required to read it back on the specified freq. FIRST inform the controller you have a PDC readback so they can be ready to check it.
 
