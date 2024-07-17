@@ -17,10 +17,24 @@ Who you're addressing, who you are, what you are, where you are, what you're doi
 - Entering a runway
 `"[Airport] Traffic [Callsign] Enters (and back tracks if required) Runway [number] for [direction] departure climbing [alt]"`
 - Rolling with intentions
-`"[Airport] Traffic [Callsign] Rolls runway [number] for [direction] departure.
+`"[Airport] Traffic [Callsign] Rolls runway [number] for [direction] departure. [Airport]"`
 
 ## Inbound Calls
-- Between 10 and 25nm depending on aircraft performance
+### When to make inbound call
+
+>10 NM from the aerodrome, or
+earlier, commensurate with aeroplane
+performance and your workload, with
+an estimated time of arrival (ETA) for the
+aerodrome 
+
+<sub>VFRG Airservices Australia</sub>
+
+
+Simply, at 10nm or erlier if you're flying a fast aircraft.
+
+What an inbound call looks like
+
 - Position, intentions, ETA
 - Clear of all runways
 

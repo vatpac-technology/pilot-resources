@@ -9,7 +9,7 @@
 
 Request:`"[Station (Tower/Ground/Delivery/Approach/Center)] [Callsign] for [Destniation] Request clearance"` 
 
-##### note, if the controller is a Center or approach, it's suggested you specify what airport you are in, especially if you are not at their primary airport.
+<Sub>note, if the controller is a Center or approach, it's suggested you specify what airport you are in, especially if you are not at their primary airport.</Sub>
 
 Clearance: `"[Callsign] cleared to [Destniation] via [First point] Flight planed route Runway [Identifier] [Standard instrument departure] departure, climb via the SID [Alt] Squawk [Code] Departures [Freq]"`
 
@@ -19,7 +19,7 @@ Readback: `"Cleared to [Destniation] Via [First point] Flight planed route, Runw
 
 Request:`"[Station (Tower/Ground/Delivery/Approach/Center)] [Callsign] for [Destniation] Request clearance"`
 
-##### note, if the controller is a Center or approach, it's suggested you specify what airport you are in, especially if you are not at their primary airport.
+<Sub>note, if the controller is a Center or approach, it's suggested you specify what airport you are in, especially if you are not at their primary airport.</Sub>
 
 Clearance:`"[Callsign] cleared [destination] via [First point]/Direct, runway [Identifier] climb/not above [ALT] Departures [Freq]"`
 
@@ -28,7 +28,7 @@ Readback:`"Cleared [Destination] Via [First point]/Direct, Runway [Identifier] C
 **Circuits**
 
 Request:`"[Station (Tower/Ground/Delivery/Approach/Center)] [Callsign] [Aircraft type] [Bay] [number] People on board, for circuits"`
-##### Controller may tell you to stand by as they co-ordinate with other controllers on things like altitude, runway and circuit direction
+<Sub>Controller may tell you to stand by as they co-ordinate with other controllers on things like altitude, runway and circuit direction</Sub>
 
 Clearance:`"[Callsign] cleared to operate in the circuit area runway [Identifier] [circuit direction of applicable] not above [Alt] squawk [code]"`
 
@@ -47,26 +47,26 @@ When the controller says:`"[Callsign] go ahead"`
 Readback:`"[SID],Bay [Number], [Squawk]"`
 
 ## Pushback & Taxi
-- Pushback
+### Pushback
 
-    `"[Callsign] request push"`
-    ##### note in normal operations start approval is not explicitly required
+ `"[Callsign] request push"` <Sub> note in normal operations start approval is not explicitly required </Sub>
 
-- Engine start
+### Engine start
 
-  ##### There is only one type of engine start that needs ATC clearance in Australia is a Cross-bleed start, only applicable to jets that need to start 1 engine on the bay with ground crew assistance.
-  `"[Callsign] request cross-bleed start"`
+ **There is only one type of engine start that needs ATC clearance in Australia. This is a Cross-bleed start, only applicable to jets that need to start 1 engine on the bay with ground crew assistance prior to pushback.**
+  ~~`"[Callsign], Bay [Number] request cross-bleed start and push"`~~
 
-- Taxi
+### Taxi
 
-  Request:`"[Callsign] with information [ATIS info] Ready for taxi [Runway]"`
+Request:`"[Callsign] with information [ATIS info] Ready for taxi [Runway]"`
   
-  A taxi instruction will be laid out as follow, `"[Callsign] Taxi via [routing] to [Taxi limit/end]"`
-  A clearance may advice you to Hold short, give way or cross a runway.
-    - Hold short `"Hold short of [taxi way]"`
-    - Hold short of runway `"... Holding point [Point] Runway [Identifier]"`
-    - Give way `"...Give way to [Callsign/company] [Aircraft type]..."`
-    - Runway crossings `"...on [taxi-way] cross [runway]..."` Alternatively `"...Cross [Runway]..."`
+ A taxi instruction will be laid out as follow, `"[Callsign] Taxi via [routing] to [Taxi limit/end]"`
+ A clearance may advice you to Hold short, give way or cross a runway.
+ 
+  - Hold short `"Hold short of [taxi way]"`
+  - Hold short of runway `"... Holding point [Point] Runway [Identifier]"`
+  - Give way `"...Give way to [Callsign/company] [Aircraft type]..."`
+  - Runway crossings `"...on [taxi-way] cross [runway]..."` Alternatively `"...Cross [Runway]..."`
   
   Readback: Readback all instructions as they were issued to you. Pen and paper doesn't hurt.
 
@@ -113,7 +113,7 @@ Normal:`"[Callsign], runway [Identifier], clear for take-off"`
 Specified:`"[Callsign], Make [direction] Circuit, report downwind, runway [identifier] clear for take-off"`
 
 ### Downwind report
-##### A reminder, you must always report turning onto or level on downwind with intentions
+<Sub>Reminder, you must always report turning onto or level on downwind with intentions </Sub>
 
 Turn, Touch and Go:`"[Callsign], turning downwind [Runway], touch and go"`
 
