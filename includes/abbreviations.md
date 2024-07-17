@@ -3,6 +3,7 @@
 *[VFR]: Visual Flight Rules
 *[IFR]: Instrument Flight Rules
 *[RNAV]: Area Navigation
+*[COC]: Vatsim Code of Conduct
 *[GNSS]: Global Navigation Satellite System
 *[RNP]: Required Navigation Performance
 *[DGA]: DME or GNSS Arrival
