@@ -15,6 +15,7 @@
 *[LL]: Lower Level
 *[SOPs]: Standard Operating Procedures
 *[FSS]: Flight Service Station
+*[FREQ]: Frequency
 *[AIP]: Aeronautical Information Publication
 *[PRM]: Precision Runway Monitoring
 *[SODPROPS]: Simultaneous Opposite Direction Parallel Runway Operations
