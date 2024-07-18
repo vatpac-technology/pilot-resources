@@ -2,6 +2,8 @@
   title: Controlled Aerodromes
 ---
 
+--8<-- "includes/abbreviations.md"
+
 ## Airways Clearance
 ### Standard airways clearance format
 
