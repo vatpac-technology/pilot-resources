@@ -2,6 +2,7 @@
   title: CTAF Procedures
 ---
 
+--8<-- "includes/abbreviations.md"
 
 ## General Format
 `[Airport/area] Traffic [Callsign] [Aircraft type] [IFR] [Position] [Intentions], [Airport/Area]`
@@ -37,13 +38,21 @@ aerodrome <Sub>VFRG</Sub>
 
 The standard broadcast format is as follows: 
 
-(Location traffic)(Aircraft type)(Callsign)(Flight rules) (Only if IFR)(Position/ intentions)(Location)
+`[Location traffic], [Aircraft type][Callsign],[Flight rules][Only if IFR],[Position/ intentions][Location]`
+
+Examples
 
   -`Parkes Traffic, Cessna 182, Oscar Romeo Delta, One-zero miles north, passing four thousand two hundred, on descent, inbound circuit three-six, Parkes`
   
   OR
   
-  -`Bunbury Traffic, Piper Seminole, Yankee Zulu Uniform, IFR, One-Zero miles East, at two thousand eight hundred on descent via the RNP runway 25, inbound straight in two-five, Bunbury`
+  -`Bunbury traffic yankee Zulu uniform, ifr Seminole, is currently 10 miles to the south of the field at 3000 ft tracking to join a 10 mile final for runway 25 estimating the field at time 23`
+
+### Straight in Approach
+
+Note that an Aircraft joining the CCT on final must give way to excisting traffic in the circuit. and a 3nm call must be made after a 10nm call.
+
+`[Airport] Traffic [Callsign] three miles final [Runway], [Airport]`
 
 ## Taxi
 Report taxiing for circuits with the general format.
@@ -92,7 +101,7 @@ must follow the right-of-way rules shown in the following table.
 
 | Item | Circumstance | Right-of-way rule |
 | ---- | ------------ | ----------------- |
-| 1 | An aircraft is in an emergency and compelled to land. | All aircraft must give way to the aircraft compelled to land |
+| 1 | An aircraft is in an emergency and compelled to land. | All aircraft must give way to the aircraft compelled to land (Refer, COC for your requirements) |
 | 2 | An aircraft is landing | Any other aircraft (weather in flight or operating on ground or water) must give way to the landing aircraft |
 | 3 | Two heavier-than-air aircraft are on approach to land at an aerodrome | > Higher one must give way to lower. > **However**, if the higher aircraft is in the final stages of an approach to land, the lower aircraft must not take advantage of the higher aircraft's requirement to give way. > Power driven aircraft must give way to an unpowered glider. |
 | 4 | An aircraft is over taking another aircraft | The Overaking aircraft must give way to the aircraft being overtaken. |
