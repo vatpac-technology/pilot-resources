@@ -3,7 +3,7 @@
 *[VFR]: Visual Flight Rules
 *[IFR]: Instrument Flight Rules
 *[RNAV]: Area Navigation
-*[COC]: Vatsim Code of Conduct
+*[COC]: Vatsim Code of Conduct (vats.im/coc)
 *[GNSS]: Global Navigation Satellite System
 *[RNP]: Required Navigation Performance
 *[DGA]: DME or GNSS Arrival
@@ -37,6 +37,7 @@
 *[ATIS]: Automatic Terminal Information Service
 *[NOTAM]: Notice to Airmen
 *[CTA]: Controlled Airspace
+*[CCT]: Circuit
 *[OCTA]: Outside Controlled Airspace
 *[HDS]: Hours of Daylight Savings
 *[CTR]: Control Zone
