@@ -3,7 +3,6 @@ nav:
     - "Overview": index.md
     - "General": general.md
     - "Class Golf operations": ClassGifr.md
-    - "CTAF": ctaf.md
     - "Enroute": enroute.md
     - "Controlled Aerodromes": controlledaerodromes.md
     - ...
