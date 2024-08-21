@@ -29,6 +29,7 @@ Station passage occurs when your aircraft flies directly overhead a navigation a
 - **VOR Station Passage:** The "cone of confusion" is often a good way to know you've experienced station passage, especially with VOR and ILS. As you fly over the station your instruments might fluctuate. VOR station passage occurs when the TO-FROM indicator.
 - **NDB Station Passage:** ADF needle will swing rapidly, showing that you've passed the station.  
 - **GNSS Station Passage:** Your GNSS unit will show that you’ve passed it and will prompt you to navigate to the next waypoint.
+- **DME Station Passage:** When the DME stops decreasing and starts increasing.
 
 ## Ground-Based Navaids Limitations
 - **Changing Sensitivity:** As you move farther from a navigation station, the signal sensitivity changes. This means the accuracy of your navigation can decrease with distance, so always be mindful of how far you are from a station. Also as you get closer to the aid, often the sensitivity increases.
@@ -52,7 +53,7 @@ The Lowest Safe Altitude (LSALT) is the minimum altitude that ensures you are sa
 - **Types of LSALT:**
     - **Route LSALT:** This is the LSALT calculated from the enroute or terminal area charts for an airway.
     - **Grid LSALT:** A grid square on the enroute (ERC) or terminal area (TAC) charts. Often used for planning diversions. More conservative than Route/MSA/Pilot calculated LSALTs.
-    - **Aerodrome MSA (Minimum Sector Altitude):** MSA exists for aerodromes that have an instrument approach and are often depicted on approach plates as circles, typically separated into a 25nm section (which can be segmented into sectors) and a 10nm section. 
+    - **Aerodrome MSA (Minimum Sector Altitude):** MSA exists for aerodromes that have an instrument approach and are often depicted on approach plates as circles, typically separated into a 25nm section (which can be further segmented into sectors) and a 10nm section.
     - **Pilot Calculated LSALT:** Pilot calculated LSALT is where a pilot calculates an LSALT. Often used for departures or approaches from aerodromes without an instrument approach. This requires considering the highest terrain or obstacle in asegment depending on the navigation aid used.
 
 ### Lateral Tolerances for LSALT
@@ -63,6 +64,7 @@ The Lowest Safe Altitude (LSALT) is the minimum altitude that ensures you are sa
 - **VMC Night (10nm Radius):** When navigating at night VFR without the assistance of navigation aids, you need to consider 10nm either side of your track.
 
 ### Vertical Tolerances for LSALT
+Using the lateral tolerance from above, find the highest obstacle for that area, then:
 - If the highest obstacle in your area is over 360 feet above the terrain, add 1,000 feet to that obstacle’s height to determine the LSALT.
 - If the highest obstacle is less than 360 feet above the terrain or there are no obstacles, add 1,360 feet to the terrain elevation for your LSALT.
 - If the terrain or obstacle height is less than 500 feet, your LSALT should not be lower than 1,500 feet.
