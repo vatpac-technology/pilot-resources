@@ -254,3 +254,4 @@
 *[KIAS]: Knots Indicated Airspeed
 *[RADIAL]: A line extending from a radio navigation aid, usually a VOR, measured in degrees from magnetic north
 *[NVIS]: Night Vision Imaging System
+*[INS]: Inertial Navigation System
