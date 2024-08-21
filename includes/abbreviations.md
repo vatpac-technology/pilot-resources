@@ -31,7 +31,6 @@
 *[ADEP]: Departure Aerodrome
 *[LOC]: Localiser
 *[ILS]: Instrument Landing System
-*[INS]: Inertial Navigation System
 *[GLS]: GBAS Landing System
 *[ACD]: Airways Clearance Delivery
 *[ATIS]: Automatic Terminal Information Service
@@ -166,7 +165,7 @@
 *[VOR]: VHF Omni-directional Range
 *[NDB]: Non-Directional Beacon
 *[DR]: Dead Reckoning
-*[MSA]: Minimum Safe Altitude
+*[MSA]: Minimum Sector Altitude
 *[MVA]: Minimum Vectoring Altitude
 *[RTCC]: Radar Terrain Clearance Chart
 *[PJE]: Parachute Jump Exercise (Parachute Operations)
@@ -253,3 +252,5 @@
 *[PRD]: Prohibited, Restricted & Danger Areas
 *[PRDs]: Prohibited, Restricted & Danger Areas
 *[KIAS]: Knots Indicated Airspeed
+*[RADIAL]: A line extending from a radio navigation aid, usually a VOR, measured in degrees from magnetic north
+*[NVIS]: Night Vision Imaging System
