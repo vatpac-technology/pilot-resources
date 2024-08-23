@@ -14,11 +14,11 @@ You are QJE1289 departure from Albury to Sydney (YMAY-YSSY). There is traffic in
 
 <h3>IFR Taxi</h3>
 
-**QJE1289** on 123.75 `"Center QJE1289 IFR Taxi"`
+**QJE1289** on 123.75 `"Center QJE1289 Taxi"`
 
 **Center** on 123.75 `"QJE1289 go ahead"`
 
-**QJE1289** on 123.75 `"QJE1289 IFR taxi Albury for Sydney rwy 25"`
+**QJE1289** on 123.75 `"QJE1289 B717 IFR taxiing Albury for Sydney rwy 25"`
 
 **Center** on 123.75 `"QJE1289 no reported IFR traffic, squawk 4632, observed VFR traffic operating within 10nm 2000ft unverified"` <Sub>Center may give you an IFR clearance IF there is an expectation you will need to enter CTA prior to a departure call and clearance can be completed.</Sub>
 
@@ -56,7 +56,7 @@ Now, taxi as you would making relevant calls on unicom to remain traffic aware. 
 
 **Center** on 123.75 `"YZU go ahead"`
 
-**YZU** on 123.75 `"YZU departed cooma time xx passing [Alt nearest 100ft] on climb [Planned cruise bellow CTA] tracking [heading xxx] for [First point] estimating [First point] time xx"`
+**YZU** on 123.75 `"YZU departed cooma xx (time in mins, numbers only) passing [Alt nearest 100ft] on climb [Planned cruise bellow CTA] tracking [heading xxx] for [First point] estimating [First point] xx"`
 
 **Center** on 123.75 `"YZU not yet identified area QNH xxxx no additional traffic"` 
 
