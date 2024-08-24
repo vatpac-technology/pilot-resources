@@ -3,6 +3,7 @@
 *[VFR]: Visual Flight Rules
 *[IFR]: Instrument Flight Rules
 *[RNAV]: Area Navigation
+*[COC]: Vatsim Code of Conduct vats.im/coc
 *[GNSS]: Global Navigation Satellite System
 *[RNP]: Required Navigation Performance
 *[DGA]: DME or GNSS Arrival
@@ -14,6 +15,7 @@
 *[LL]: Lower Level
 *[SOPs]: Standard Operating Procedures
 *[FSS]: Flight Service Station
+*[FREQ]: Frequency
 *[AIP]: Aeronautical Information Publication
 *[PRM]: Precision Runway Monitoring
 *[SODPROPS]: Simultaneous Opposite Direction Parallel Runway Operations
@@ -36,6 +38,7 @@
 *[ATIS]: Automatic Terminal Information Service
 *[NOTAM]: Notice to Airmen
 *[CTA]: Controlled Airspace
+*[CCT]: Circuit
 *[OCTA]: Outside Controlled Airspace
 *[HDS]: Hours of Daylight Savings
 *[CTR]: Control Zone
@@ -165,7 +168,7 @@
 *[VOR]: VHF Omni-directional Range
 *[NDB]: Non-Directional Beacon
 *[DR]: Dead Reckoning
-*[MSA]: Minimum Safe Altitude
+*[MSA]: Minimum Sector Altitude
 *[MVA]: Minimum Vectoring Altitude
 *[RTCC]: Radar Terrain Clearance Chart
 *[PJE]: Parachute Jump Exercise (Parachute Operations)
@@ -252,3 +255,6 @@
 *[PRD]: Prohibited, Restricted & Danger Areas
 *[PRDs]: Prohibited, Restricted & Danger Areas
 *[KIAS]: Knots Indicated Airspeed
+*[RADIAL]: A line extending from a radio navigation aid, usually a VOR, measured in degrees from magnetic north
+*[NVIS]: Night Vision Imaging System
+*[INS]: Inertial Navigation System
