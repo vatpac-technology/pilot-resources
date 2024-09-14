@@ -15,7 +15,34 @@
 ## Melbourne Airport
 ### On the ground
 
-Melbourne Airport runs 2 runways, that being runway 16/34, and runway 27/09. 
+Melbourne Airport runs 2 runways, that being runway 16/34, and runway 27/09.
+
+### Pushback
+
+Melbourne airport uses **disconnect points** procedures to pushback aircraft. The system is comprised of multiple points on the ground of which ATC can direct aircraft to pushback to. This system is used to optimise the flow of traffic pushing back, allowing for a more efficient flow of traffic to both enter and exit the bays.
+
+![alt text](APAM-CA-DR-03-2501[F]-1-1.png)
+
+ATC will usually assign a disconnect point;
+
+**QFA728:** `Ground g'day, QFA728 in reciept of November, stand Charlie 11, request push.`
+
+**ATC:** `QFA728 ground, push approved, disconnect Tango 10.`
+
+**QFA728:** `Push approved, disconnect Tango 10, QFA728`
+
+Pilots can also request to use specific disconnect points;
+
+**JST416:** `Ground g'day, JST416 in reciept of Oscar, stand Foxtrot 16, request push, disconnect Sierra 14.`
+
+**ATC:** `JST416, ground, push approved, disconnect Sierra 14`
+
+**JST416:** `Push approved, disconnect Sierra 14, JST416.`
+
+### Taxi
+
+Melbourne utilises standard taxi routes, that being outbounds on Alpha and Echo, and inbounds on Victor and Tango.
+
 
 ## Avalon Airport
 
@@ -29,13 +56,13 @@ Moorabbin usually runs dual runway operations, having 5 runways at their disposa
 
 ### Ground Procedures
 On the ground, aircraft in the apron bays may start up and taxi their aircraft without having to recieve a start or taxi clearance. Aircraft will then follow taxiways to the Northern or Southern runup bays.
-Once runups are complete, an aircraft can call for taxi to either runway in use, as well as stating the following call, including, who you are, what aircraft you are in, where you are, where you want to taxi to and how you want to depart (usually via a leg of a circuit, or via a known waypoint.)
+Once runups are complete, an aircraft can call for taxi to either runway in use, as well as stating the following call, including, who you are, what aircraft you are in, where you are, where you want to taxi to and how you want to depart (usually via a leg of a circuit, or via a known waypoint.) 
 
 YOU: `Moorabbin Ground, VCY, Cessna 152, Southern Runup bay, request taxi runway 17R, upwind departure to the training area, in receipt of Uniform.`
 
 MB_GND: `VCY, ground, taxi holding point Golf 2 runway 17R` 
 
-Although at first slightly daunting, Moorabbin's taxiways can be easily learned, and as the saying goes, if you can taxi at Moorabbin, you can taxi anywhere.
+Although at first slightly daunting, Moorabbin's taxiways can be easily learned, and as the saying goes, if you can taxi at Moorabbin, you can taxi anywhere. 
 
 ![alt text](picture3-1.png)
 
@@ -102,15 +129,13 @@ YOU: `Cleared one left hand city orbit, not above 1,500, wilco, VCY`
 
 Once the aircraft is cleared, the aircraft may enter the controlled airspace, and perform an orbit around the outside of Melbourne City. Once the aircraft has completed the orbit, they may notify the ATC of their completion.
 
-YOU: `VCY, Orbit complete, tracking via Point Ormond for Moorabbin.`
+YOU: `VCY, Orbit complete, tracking direct Brighton.`
 
-ATC: `VCY, Control services terminated, frequency change approved.`
+ATC: `VCY, Control services terminated.`
 
-YOU: `Control services terminated, frequency change approved, VCY.`
+YOU: `Control services terminated, VCY.`
 
 ## to do list. (remove later)
-- city orbits OK!
 - sunbury corridor
-- bay VFR route
 - visual STARs to YMML
 - YMEN tower closed procedures
