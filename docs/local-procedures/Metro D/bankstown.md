@@ -66,12 +66,12 @@ Each coded clearance includes tracking instructions and height requirements that
 ### Departures
 VFR aircraft intending to track via a coded clearance require an airways clearance from **BK SMC**.
 
-| Coded Clearance      | Route               | Altitude | Notes |
-| -------------------- | ------------------- | -------- | ----- |
-| Hornsby Outbound     | `PRT CFCR PENH HSY` | `A015` to CFCR, thence `A018` |  |
-| Mount Annan Outbound | `HXPR EMPS MAGG`    | `A015` to EMPS, thence `A025` |  |
-| Penrith Outbound     | `PRT SITS VCBR`     | `A015`   |       |
-| Woronora Outbound    | `REVS CASO WORC`    | `A015`   | Day Only |
+| Coded Clearance      | Route                   | Altitude | Notes |
+| -------------------- | ----------------------- | -------- | ----- |
+| Hornsby Outbound     | `PRT CFCR PENH HSY PAA` | `A015` to CFCR, thence `A018` |  |
+| Mount Annan Outbound | `HXPR EMPS MAGG`        | `A015` to EMPS, thence `A025` |  |
+| Penrith Outbound     | `PRT SITS VCBR`         | `A015`   |       |
+| Woronora Outbound    | `REVS CASO WORC`        | `A015`   | Day Only |
 
 !!! phraseology
     **UNY**: "Bankstown Ground, Diamond UNY, taxiway L, received B, for Hornsby Outbound, request taxi"   
