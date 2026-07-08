@@ -1,8 +1,14 @@
 ---
-  title: Sydney (YSSY)
+  title: Sydney/Kingsford-Smith (YSSY)
 ---
 
 --8<-- "includes/abbreviations.md"
+
+## Aerodrome Name
+YSSY is named *Kingsford-Smith* when referred to on the radio, to differentiate from the other controlled aerodromes in the Sydney Basin.
+
+!!! phraseology
+    "RXA6519, cleared to Kingsford-Smith via Cowra, flight planned route, climb to FL170"
 
 ## Taxiing
 There are two SMC positions at Sydney. SMC West controls aprons and taxiways west of RWY 16R/34L, while SMC East controls east of RWY 34L/16R.
